@@ -1,4 +1,8 @@
 /* hbdtoyou style */
+.page1 {
+    margin-top: 300px;
+}
+
 .bell {
     display: block;
     width: 30%;
@@ -51,7 +55,7 @@ h1 {
 .bday-cake {
     height: 100vh; /* Set the height of your content area */
     padding: 20px;
-    margin-top: 600px;
+    margin-top: 400px;
   }
 
 .cake {
