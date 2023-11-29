@@ -1,0 +1,17 @@
+.dekor-kiri {
+    display: block;
+    width: 20%;
+    position: absolute;
+    margin-left: auto;
+}
+
+.dekor-kanan {
+    display: block;
+    width: 20%;
+    position: absolute;
+    margin-right: auto;
+}
+
+.bdaycake::before {
+    background-color: black;
+}
