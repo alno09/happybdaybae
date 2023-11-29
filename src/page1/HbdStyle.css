@@ -51,7 +51,7 @@ h1 {
 .bday-cake {
     height: 100vh; /* Set the height of your content area */
     padding: 20px;
-    margin-top: 10px;
+    margin-top: 600px;
   }
 
 .cake {
@@ -107,6 +107,7 @@ h2 {
     transform-style: preserve-3d;
     transform: perspective(2500px);
     transition: 1s;
+    margin-bottom: 400px;
    }
    
    .cardFront {

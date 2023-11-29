@@ -20,7 +20,6 @@ const HbdToYou = () => {
             <br /><br />
             <h1>ADA PESAN BUAT KAMU !!!</h1>
             <p>Tekan lonceng untuk membuka pesan</p>
-            <br /><br /><br /><br /><br /><br />
             </div>
             
             <div className='bday-cake'>
